@@ -1,0 +1,5 @@
+SpeechRecognition
+pyaudio
+numpy
+scipy
+pyserial
